@@ -1,12 +1,12 @@
-# jack
-$pkg install update&&upgrade
 
-$pkg install python2
+#$pkg install update&&upgrade
 
-$pkg install git
+#$pkg install python2
 
-$git clone https://github.com/Stut74ck/jack
+#$pkg install git
 
-$cd jack
+#$git clone https://github.com/Stut74ck/jack
 
-$sh tetegede.sh
+#$cd jack
+
+#$sh tetegede.sh
